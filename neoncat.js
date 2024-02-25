@@ -1,3 +1,4 @@
+//suspend
 // inside main_javascript.js
 
 let can = document.getElementById('canvas1');
