@@ -41,7 +41,7 @@ html {
 }
 
 .nav {
-  background-color: var(--purple_300);
+  background-color: var(--pink_700);
   padding: 2rem;
   width: 100%;
   display: flex;
@@ -57,7 +57,7 @@ html {
 }
 
 .title {
-  color: var(--sky_300);
+  color: var(--pink_700);
   margin-top: 2rem;
   font-size: 2rem;
 }
